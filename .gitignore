@@ -1,0 +1,10 @@
+session.json
+.vscode/
+.env
+node_modules/
+user/
+helper/old.js
+helper/userCek.js
+util/anu.js
+util/anu.json
+util/test.js
