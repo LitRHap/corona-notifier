@@ -13,8 +13,8 @@ This project require MQTT broker, nodeJS.
 Clone this project
 
 ```bash
-> git clone https://github.com/YogaSakti/CoronaNotifier.git
-> cd CoronaNotifier
+> git clone https://github.com/LitRHap/corona-notifier
+> cd corona-notifier
 
 ```
 
